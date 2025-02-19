@@ -14,8 +14,7 @@ They want to understand if spending habits differ between male and female custom
 ## Dataset  
 
 The company collected transactional data of customers who purchased products from Walmart Stores during Black Friday.  
-
-📂 **Dataset Link**: [Walmart_data.csv](https://github.com/yourusername/yourrepo/releases/download/v1.0/Walmart_data.csv)  
+ 
 
 ### **Features in the Dataset:**  
 - **User_ID** → Unique ID assigned to each customer  
